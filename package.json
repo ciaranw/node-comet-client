@@ -10,7 +10,8 @@
 		"request": "*"
 	},
 	"devDependencies": {
-		"vows": "*"
+		"vows": "*",
+		"eyes": "*"
 	},
 	"engines": {"node": ">=0.4.x"} 
 }
