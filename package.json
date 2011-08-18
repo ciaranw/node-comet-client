@@ -1,0 +1,16 @@
+{
+	"name": "comet-client",
+	"version": "0.0.1",
+	"description": "A cometd client that implements the bayeux protocol",
+	"keywords": ["comet", "cometd", "bayeux", "client", "long-polling", "push"],
+	"author": "Ciaran Wood <cyrzinsomnia@gmail.com>",
+	"main": "index.js",
+	"directories": {"test": "./test"},
+	"dependencies": {
+		"request": "*"
+	},
+	"devDependencies": {
+		"vows": "*"
+	},
+	"engines": {"node": ">=0.4.x"} 
+}
